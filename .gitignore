@@ -1,0 +1,10 @@
+
+randstr
+*.o
+*.a
+*.creator
+*.files
+*.includes
+*.config
+*.user
+.DS_Store
